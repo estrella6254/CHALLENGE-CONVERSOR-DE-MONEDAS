@@ -1,0 +1,14 @@
+[2025-05-25 16:32:46] [INFO] Aplicación iniciada
+[2025-05-25 16:33:03] [INFO] Intento de conversión: 10.0 USD a EUR
+[2025-05-25 16:33:04] [INFO] Conversión exitosa: 10.0 USD = 8.815 EUR
+[2025-05-25 16:33:35] [INFO] Intento de conversión: 10.0 JPY a USD
+[2025-05-25 16:33:35] [INFO] Conversión exitosa: 10.0 JPY = 0.07006 USD
+[2025-05-25 16:33:35] [ERROR] Error al parsear opción del usuario: For input string: ""
+[2025-05-25 16:33:35] [INFO] Opción inválida seleccionada: -1
+[2025-05-25 16:33:46] [INFO] Intento de conversión: 10.0 JPY a USD
+[2025-05-25 16:33:46] [INFO] Conversión exitosa: 10.0 JPY = 0.07006 USD
+[2025-05-25 16:34:37] [INFO] Intento de conversión: 10.0 USD a COP
+[2025-05-25 16:34:37] [INFO] Conversión exitosa: 10.0 USD = 41882.871999999996 COP
+[2025-05-25 16:34:51] [INFO] Aplicación finalizada
+[2025-05-25 17:14:00] [INFO] Aplicación iniciada
+[2025-05-25 17:14:17] [INFO] Aplicación finalizada
